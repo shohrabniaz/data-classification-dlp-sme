@@ -1,0 +1,19 @@
+{
+  "title": "Data Classification and Data Loss Prevention Implementation for a Legal SME",
+  "seq": 38,
+  "kind": "privacy",
+  "mode": "SyntheticBaseline",
+  "generatedUtc": "2026-11-04T17:32:12.623276+00:00",
+  "author": "Md Shohrab Hossen Niaz",
+  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "artefacts": [
+    "readiness assessment",
+    "policy outline",
+    "incident notify checklist"
+  ],
+  "scoreModel": {
+    "baselineMaturity": 42,
+    "targetMaturity": 70,
+    "unit": "0-100 design-coverage index"
+  }
+}
